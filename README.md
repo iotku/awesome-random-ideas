@@ -15,3 +15,6 @@ If someone else finds something that may qualify they are welcome to submit a pu
 - Time Tracking
   - A todo list with gamified properties
     - IDEA: "Keep track of common or daily procedures in a todo format with gamification to enhance the enjoyment of completing tasks as well as keeping track of how often the tasks are completed as well as maintaining "streaks" of completing the tasks
+- Note Sync
+  - Record and sync timestamps (realtime) between audio recorded via audio recorder (such as an android app) and digital notes
+  - Could integrate Whisper for speech rec
