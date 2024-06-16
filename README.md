@@ -18,3 +18,7 @@ If someone else finds something that may qualify they are welcome to submit a pu
 - Note Sync
   - Record and sync timestamps (realtime) between audio recorded via audio recorder (such as an android app) and digital notes
   - Could integrate Whisper for speech rec
+- Android Watch HeartRate OBS plugin
+  - Android (WearOS?) app
+  - Report heartrate (BPM)
+  - OBS Plugin for livestreaming
