@@ -22,6 +22,7 @@ If someone else finds something that may qualify they are welcome to submit a pu
   - Android (WearOS?) app
   - Report heartrate (BPM)
   - OBS Plugin for livestreaming
-- Libvirt netfilter GUI toool
+- Libvirt netfilter GUI tool
     - Manage firewall rules for VMs
     - Netfilter rules
+    - Possible to integrate into virt-manager?
