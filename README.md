@@ -26,3 +26,7 @@ If someone else finds something that may qualify they are welcome to submit a pu
     - Manage firewall rules for VMs
     - Netfilter rules
     - Possible to integrate into virt-manager?
+- System Audio Clipper
+  - For a particular amount of time take audio from the system output
+    - Then trimp empty audio around it to make an audio file
+    - (e.g. for saving short speech clips)
