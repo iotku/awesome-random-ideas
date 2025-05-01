@@ -30,3 +30,8 @@ If someone else finds something that may qualify they are welcome to submit a pu
   - For a particular amount of time take audio from the system output
     - Then trimp empty audio around it to make an audio file
     - (e.g. for saving short speech clips)
+- Shttimer
+  - WearOS Application
+  - Track response time from random beep
+  - Trigger time between beep and 'loud' sound
+  - Track reaction time stastistics
