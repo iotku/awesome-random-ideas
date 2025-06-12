@@ -39,3 +39,6 @@ If someone else finds something that may qualify they are welcome to submit a pu
   - Keep track of applied job listings
   - Hash job title/employeer to find duplicates
   - Track time for reapplication after denial
+- CrossTab
+  - Manage Alt+tab across multiple systems in a synergy/barrier type multi-pc configuration
+  - Automatically move cursor to monitor/system containing application
