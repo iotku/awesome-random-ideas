@@ -42,3 +42,6 @@ If someone else finds something that may qualify they are welcome to submit a pu
 - CrossTab
   - Manage Alt+tab across multiple systems in a synergy/barrier type multi-pc configuration
   - Automatically move cursor to monitor/system containing application
+- suptimed
+  - Service monitoring dashboard/notifcations simular to uptime kuma but directly tracking systemd services
+  - Rational: Sometimes the external facing service is operational but the backend systemd service is not.
